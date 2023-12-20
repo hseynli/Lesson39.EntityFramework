@@ -1,0 +1,14 @@
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\bin\Debug\net8.0\DbHelper.deps.json
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\bin\Debug\net8.0\DbHelper.runtimeconfig.json
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\bin\Debug\net8.0\DbHelper.dll
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\bin\Debug\net8.0\DbHelper.pdb
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\obj\Debug\net8.0\DbHelper.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\obj\Debug\net8.0\DbHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\obj\Debug\net8.0\DbHelper.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\obj\Debug\net8.0\DbHelper.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\obj\Debug\net8.0\DbHelper.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\obj\Debug\net8.0\DbHelper.dll
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\obj\Debug\net8.0\refint\DbHelper.dll
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\obj\Debug\net8.0\DbHelper.pdb
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\obj\Debug\net8.0\DbHelper.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson39.EntityFramework\DbHelper\obj\Debug\net8.0\ref\DbHelper.dll
